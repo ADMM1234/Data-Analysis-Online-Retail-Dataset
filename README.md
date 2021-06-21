@@ -1,10 +1,10 @@
 # Data-Analysis-Online-Retail-Dataset
 Plotted various plot and done Data Analysis of A Retail Dataset 
 
+![img 1](https://user-images.githubusercontent.com/62906038/122762277-c83b1f80-d2ba-11eb-8e9a-cf0afbe86608.png)
+![img 2](https://user-images.githubusercontent.com/62906038/122762286-ca04e300-d2ba-11eb-9df6-0037beeba8af.png)
+![img 3](https://user-images.githubusercontent.com/62906038/122762291-cb361000-d2ba-11eb-887b-82b3f10f8342.png)
+![img 4](https://user-images.githubusercontent.com/62906038/122762298-ccffd380-d2ba-11eb-9154-c808b93dfb6f.png)
 
-![img 1](https://user-images.githubusercontent.com/62906038/122762101-95912700-d2ba-11eb-83a5-e960cfae4bc9.png)
-![img 2](https://user-images.githubusercontent.com/62906038/122762123-9aee7180-d2ba-11eb-8e91-1b798d7b6f54.png)
-![img 3](https://user-images.githubusercontent.com/62906038/122762133-9d50cb80-d2ba-11eb-87e3-5412b41ab5cf.png)
-![img 4](https://user-images.githubusercontent.com/62906038/122762136-9e81f880-d2ba-11eb-9324-a8d3688fe0a7.png)
 
 
